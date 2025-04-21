@@ -27,7 +27,7 @@ export default function RootLayout({
                 <div className="container flex h-14 items-center">
                   <div className="flex items-center space-x-2 font-bold">
                     <GraduationCapIcon className="h-5 w-5" />
-                    <span>Encg</span>
+                    <span>Encg s8 by Sattar</span>
                   </div>
                   <div className="flex flex-1 items-center justify-end space-x-2">
                     <ThemeToggle />
