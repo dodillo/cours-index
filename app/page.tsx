@@ -191,7 +191,7 @@ export default function CoursesPage() {
               <GraduationCap className="h-10 w-10 text-white" />
             </div>
             <h1 className="bg-gradient-to-r from-[#3182ce] to-[#2c5282] bg-clip-text text-4xl font-bold tracking-tight text-transparent md:text-5xl">
-              S8
+              S8 (Gestion Financière et Comptable)
             </h1>
           </motion.div>
 
