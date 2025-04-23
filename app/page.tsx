@@ -75,7 +75,7 @@ const courses: Course[] = [
     title: "Anglais des affaires",
     description: "Cours d'anglais des affaires",
     category: "languages",
-    notionLink: "https://notion.so/anglais-affaires",
+    notionLink: "https://curse-beast-a8d.notion.site/Anglais-des-affaires-1912e3d9501c80b18271fc37589e7840?pvs=4",
     color: "#d53f8c",
     icon: "🇬🇧",
   },
