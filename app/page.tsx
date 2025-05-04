@@ -93,7 +93,7 @@ const courses: Course[] = [
     title: "Management de projet",
     description: "Cours de management de projet",
     category: "management",
-    notionLink: "https://notion.so/management-projet",
+    notionLink: "https://curse-beast-a8d.notion.site/Cours-1e92e3d9501c8033b7ebf39ed1515958?pvs=4",
     badge: "New",
     color: "#3182ce",
     icon: "📋",
