@@ -84,7 +84,7 @@ const courses: Course[] = [
     title: "Espagnole des affaires",
     description: "Cours d'espagnole des affaires",
     category: "languages",
-    notionLink: "https://notion.so/espagnole-affaires",
+    notionLink: "https://curse-beast-a8d.notion.site/Cours-1e92e3d9501c805d8364e8cef2ac35c8?pvs=4",
     color: "#d53f8c",
     icon: "🇪🇸",
   },
