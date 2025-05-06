@@ -29,7 +29,7 @@ const courses: Course[] = [
     title: "Management stratégique",
     description: "Cours de management stratégique",
     category: "management",
-    notionLink: "https://curse-beast-a8d.notion.site/Cours-1b12e3d9501c80c28991ebf3e5459c25?pvs=4",
+    notionLink: "https://www.notion.so/Cours-r-sum-1b72e3d9501c80918ff1c25c26c646a9",
     color: "#3182ce",
     icon: "📊",
   },
