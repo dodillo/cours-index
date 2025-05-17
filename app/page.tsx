@@ -38,7 +38,7 @@ const courses: Course[] = [
     title: "Méthodologie de recherche",
     description: "Cours de méthodologie de recherche",
     category: "research",
-    notionLink: "https://curse-beast-a8d.notion.site/Cours-1e82e3d9501c80d59116e277190e1a1f?pvs=4",
+    notionLink: "https://curse-beast-a8d.notion.site/Cours-1e92e3d9501c800d9bb8ca4e27b4c298?pvs=4",
     color: "#805ad5",
     icon: "🔍",
   },
