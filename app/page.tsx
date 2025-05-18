@@ -112,7 +112,7 @@ const courses: Course[] = [
     title: "Méthodologie de communication",
     description: "Cours de méthodologie de communication",
     category: "communication",
-    notionLink: "https://notion.so/methodologie-communication",
+    notionLink: "https://curse-beast-a8d.notion.site/Cours-1e92e3d9501c800d9bb8ca4e27b4c298?pvs=4",
     color: "#e53e3e",
     icon: "🗣️",
   },
